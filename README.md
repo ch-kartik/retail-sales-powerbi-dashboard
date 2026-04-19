@@ -35,7 +35,7 @@ A star schema model is used for optimized performance.
 ![Products](products.png)
 
 ### 3. Salesperson Performance
-![Salesperson](salesperson.png)
+![Salesperson](salespersons.png)
 
 ### 4. Business Insights
 ![Insights](insights.png)
